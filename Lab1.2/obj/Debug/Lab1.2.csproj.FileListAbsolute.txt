@@ -1,0 +1,8 @@
+C:\Users\hoquo\source\repos\Lab1.2\Lab1.2\bin\Debug\Lab1.2.exe.config
+C:\Users\hoquo\source\repos\Lab1.2\Lab1.2\bin\Debug\Lab1.2.exe
+C:\Users\hoquo\source\repos\Lab1.2\Lab1.2\bin\Debug\Lab1.2.pdb
+C:\Users\hoquo\source\repos\Lab1.2\Lab1.2\obj\Debug\Lab1._2.ProjectInstaller.resources
+C:\Users\hoquo\source\repos\Lab1.2\Lab1.2\obj\Debug\Lab1.2.csproj.GenerateResource.cache
+C:\Users\hoquo\source\repos\Lab1.2\Lab1.2\obj\Debug\Lab1.2.csproj.CoreCompileInputs.cache
+C:\Users\hoquo\source\repos\Lab1.2\Lab1.2\obj\Debug\Lab1.2.exe
+C:\Users\hoquo\source\repos\Lab1.2\Lab1.2\obj\Debug\Lab1.2.pdb
